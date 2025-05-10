@@ -85,14 +85,14 @@ A feature-rich issue tracker with:
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:mohitmaster440@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/mohit-master" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourprofile" target="_blank">
+  <a href="https://www.instagram.com/itsmohiittttt/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram" />
   </a>
 </p>
