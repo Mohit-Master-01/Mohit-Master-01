@@ -60,7 +60,7 @@ A feature-rich issue tracker with:
 
 ## 🛠️ Tech Stack
 
-```text
+```
 Languages:     C#, Java, PHP, HTML, CSS, JavaScript, SQL
 Backend:       ASP.NET Core MVC, ADO.NET, Entity Framework Core
 Frontend:      Bootstrap, jQuery, Razor Views
@@ -68,9 +68,36 @@ Databases:     MySQL, MS SQL Server, Oracle
 CMS:           WordPress
 Tools:         Visual Studio, Git, Postman, Canva, Figma, phpMyAdmin
 Others:        Dialogflow, SignalR, FullCalendar, SMTP, Excel + ZIP import/export
+```
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Master-01&show_icons=true&theme=tokyonight" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Master-01&theme=tokyonight" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Master-01&layout=compact&theme=tokyonight" /> </p>
+---
 
-📫 Connect With Me
-<p align="left"> <a href="mailto:mohitmaster440@gmail.com"><img src="https://img.shields.io/badge/Gmail-mohitmaster440@gmail.com-red?style=flat-square&logo=gmail" /></a> <a href="https://www.linkedin.com/in/mohit-master"><img src="https://img.shields.io/badge/LinkedIn-Mohit%20Master-blue?style=flat-square&logo=linkedin" /></a> <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-@yourprofile-pink?style=flat-square&logo=instagram" /></a> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Master-01&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohit-Master-01&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Master-01&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:mohitmaster440@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-mohitmaster440@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohit-master">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Master-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/yourprofile">
+    <img src="https://img.shields.io/badge/Instagram-@yourprofile-pink?style=flat-square&logo=instagram" />
+  </a>
+</p>
+
+---
+
+> “The best way to predict the future is to invent it.” — Alan Kay
