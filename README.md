@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
 <h3 align="center">Final-Year BSc IT Student | ASP.NET Core Developer | Passionate about Full-Stack Development</h3>
 
+---
+
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Backend-C%23%20|%20EF%20Core-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Frontend-HTML%20|%20CSS%20|%20Bootstrap-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20|%20MSSQL-yellow?style=flat-square" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40" alt="MSSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" height="40" alt="WordPress" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" alt="Visual Studio" />
 </p>
 
 ---
@@ -58,20 +71,6 @@ A feature-rich issue tracker with:
 
 ---
 
-## 🛠️ Tech Stack
-
-```
-Languages:     C#, Java, PHP, HTML, CSS, JavaScript, SQL
-Backend:       ASP.NET Core MVC, ADO.NET, Entity Framework Core
-Frontend:      Bootstrap, jQuery, Razor Views
-Databases:     MySQL, MS SQL Server, Oracle
-CMS:           WordPress
-Tools:         Visual Studio, Git, Postman, Canva, Figma, phpMyAdmin
-Others:        Dialogflow, SignalR, FullCalendar, SMTP, Excel + ZIP import/export
-```
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -87,14 +86,14 @@ Others:        Dialogflow, SignalR, FullCalendar, SMTP, Excel + ZIP import/expor
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="mailto:mohitmaster440@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-mohitmaster440@gmail.com-red?style=flat-square&logo=gmail" />
+  <a href="mailto:mohitmaster440@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/mohit-master">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Master-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/mohit-master" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-@yourprofile-pink?style=flat-square&logo=instagram" />
+  <a href="https://instagram.com/yourprofile" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30" alt="Instagram" />
   </a>
 </p>
 
